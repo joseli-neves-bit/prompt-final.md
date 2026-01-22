@@ -23,7 +23,8 @@ O desenvolvimento do conceito foi realizado através de:
 - GitHub
 - GitHub Copilot (engenharia de prompts)
 - Lovable (geração de fluxos e telas)
-  """
+  
+  '''
   Você é um gerador de aplicativos completos focados em MVP funcional.
 
 Quero que você crie um **App Web de Finanças Pessoais e Investimentos**, simples, objetivo e intuitivo, voltado para usuários leigos, com foco em organização financeira, simulação de investimentos e apoio à decisão.
@@ -156,11 +157,12 @@ Quero:
 * Fluxo de telas bem definido
 * Lógica clara de cálculos
 * App pronto para demonstração
-"""
+'''
 
 - Inteligência Artificial generativa
 
 ## 📌 Status
 Projeto conceitual desenvolvido para fins educacionais,
 com foco em aprendizado de Vibe Coding e design de soluções com IA.
+
 
