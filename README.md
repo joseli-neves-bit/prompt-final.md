@@ -39,7 +39,6 @@ O desenvolvimento do projeto foi realizado de forma **conceitual, iterativa e or
  **Site do Lovable:**
 https://invest-coach-ai-48.lovable.app
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/58124b07-7cde-4425-a2fc-81b36061f59a" />
 
 ---
 
@@ -163,11 +162,9 @@ Exemplo de resposta:
  **Espaço reservado para evidências do processo**
 
 * Print da criação inicial do app no Lovable
-* Ajustes solicitados via prompt
-* Refinamentos de funcionalidades e telas
-* Conversas com IA sobre melhorias e MVP
+* <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/58124b07-7cde-4425-a2fc-81b36061f59a" />
 
-*(Inserir manualmente prints e descrições aqui)*
+
 
 ---
 
@@ -185,6 +182,7 @@ Exemplo de resposta:
 - Projeto conceitual finalizado
 - Desenvolvido para fins educacionais na **DIO**
 - Foco em IA Generativa, Vibe Coding e Design de Produto
+
 
 
 
