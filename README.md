@@ -177,12 +177,9 @@ Exemplo de resposta:
 
 ---
 
-##  Status
+##  Reflexão sobre o projeto
 
-- Projeto conceitual finalizado
-- Desenvolvido para fins educacionais na **DIO**
-- Foco em IA Generativa, Vibe Coding e Design de Produto
-
+Este projeto me permitiu compreender como a Inteligência Artificial pode ser utilizada não apenas para programar, mas para pensar produto, estruturar soluções e transformar ideias em aplicações funcionais. A experiência com Vibe Coding reforçou a importância de saber se comunicar com a IA por meio de bons prompts, além de integrar lógica, usabilidade e foco no usuário. Esse desafio contribuiu diretamente para meu desenvolvimento na transição para a área de tecnologia e IA, ampliando minha visão sobre criação de MVPs e soluções orientadas a dados.
 
 
 
